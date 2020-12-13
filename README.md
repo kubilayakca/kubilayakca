@@ -13,9 +13,10 @@ Fortunately, I had chances to work with different kind of technologies/architect
 Don't hesitate me contact with me! :wave:	
   
 <a href="https://www.linkedin.com/in/akcakubilay/">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" alt="Linkedin Profile URL>
+  <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="20" alt="Linkedin Profile URL"/>
 </a>
-  
+<br/>
+                                                                                                                                               
 :email: akca.kubilay@gmail.com
 
 
